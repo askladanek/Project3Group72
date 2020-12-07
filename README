@@ -1,0 +1,6 @@
+Hello and welcome to Group 72's submission for COP3530 Project 3b!
+This is an iOS application we developed that contains a Binary Tree and a Min Heap with 100,000 randomly generated enemies each to fight in an arcade style game.
+This repository contains the entire code project for Xcode, as well as the Swift files we wrote the expected code in.
+The MainScene.swift is the file you want to look at if you are grading this, but the other swift files are also commented if you are curious about what they do.
+If you have any questions, please email ajskladanek01@icloud.com 
+Thanks!
